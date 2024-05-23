@@ -23,7 +23,7 @@ nodes:
     type: code
     path: llm_evaluation.jinja2
   inputs:
-    deployment_name: ggpt-35-turbo-16k
+    deployment_name: gpt-35-turbo-16k
     entity: ${inputs.entity_type}
     text: ${inputs.text}
     value: ${inputs.llm_result}
