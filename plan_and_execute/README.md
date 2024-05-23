@@ -46,3 +46,4 @@ Follow the prerequisites in [How to setup the repo with Azure DevOps](https://gi
 Create a Prompt flow connection of type Custom and name it `plan_execute_agent_connection`. To do so, go to your Azure Machine Learning workspace portal, click `Prompt flow` -> `Connections` -> `Create` -> `Custom`. Fill in the key-value pairs according to the figure below:
 
 <img src="figs/connection.svg" alt="Custom Connection Information" width="500"/>
+
