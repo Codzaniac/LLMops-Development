@@ -3,27 +3,27 @@
             {
                 "ENV_NAME": "pr",
                 "RUNTIME_NAME": "",
-                "KEYVAULT_NAME": "avilcek-llmops-pf-kv",
-                "RESOURCE_GROUP_NAME": "avilcek-llmops-pf-rg",
-                "WORKSPACE_NAME": "avilcek-llmops-pf-ws",
+                "KEYVAULT_NAME": "kv-bhasskar681862876542",
+                "RESOURCE_GROUP_NAME": "aoi_bh_rg",
+                "WORKSPACE_NAME": "bhasskarai102-5919",
                 "STANDARD_FLOW_PATH": "flows/standard",
                 "EVALUATION_FLOW_PATH": "flows/evaluation"
             },
             {
                 "ENV_NAME": "dev",
                 "RUNTIME_NAME": "",
-                "KEYVAULT_NAME": "avilcek-llmops-pf-kv",
-                "RESOURCE_GROUP_NAME": "avilcek-llmops-pf-rg",
-                "WORKSPACE_NAME": "avilcek-llmops-pf-ws",
+                "KEYVAULT_NAME": "kv-bhasskar681862876542",
+                "RESOURCE_GROUP_NAME": "aoi_bh_rg",
+                "WORKSPACE_NAME": "bhasskarai102-5919",
                 "STANDARD_FLOW_PATH": "flows/standard",
                 "EVALUATION_FLOW_PATH": "flows/evaluation"
             },
             {
                 "ENV_NAME": "postprodeval",
                 "RUNTIME_NAME": "",
-                "KEYVAULT_NAME": "avilcek-llmops-pf-kv",
-                "RESOURCE_GROUP_NAME": "avilcek-llmops-pf-rg",
-                "WORKSPACE_NAME": "avilcek-llmops-pf-ws",
+                "KEYVAULT_NAME": "kv-bhasskar681862876542",
+                "RESOURCE_GROUP_NAME": "aoi_bh_rg",
+                "WORKSPACE_NAME": "bhasskarai102-5919",
                 "STANDARD_FLOW_PATH": "flows/post-production-evaluation"
             }
     ]

@@ -18,12 +18,12 @@ nodes:
     type: code
     path: NER_LLM.jinja2
   inputs:
-    deployment_name: gpt-35-turbo
+    deployment_name: gpt-35-turbo-16k
     max_tokens: 64
     text: ${inputs.text}
     entity_type: ${inputs.entity_type}
   provider: AzureOpenAI
-  connection: aoai
+  connection: aoibhasskar
   api: chat
   module: promptflow.tools.aoai
 - name: cleansing
